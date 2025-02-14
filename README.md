@@ -63,10 +63,10 @@
 ✅ **Pensar no fluxo real do dia a dia do trabalho** para tornar a atividade mais prática.  
 
 ---
-## ** Links Úteis:
+## Links Úteis:
 
-https://medium.com/@jonesroberto/event-storming-guia-b%C3%A1sico-216498f5dd2d
+✅ ** https://medium.com/@jonesroberto/event-storming-guia-b%C3%A1sico-216498f5dd2d
 
-https://www.linkedin.com/pulse/o-que-%C3%A9-eventstorming-e-como-este-formato-de-workshop-rodrigues/
+✅ ** https://www.linkedin.com/pulse/o-que-%C3%A9-eventstorming-e-como-este-formato-de-workshop-rodrigues/
 
 
