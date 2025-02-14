@@ -3,8 +3,6 @@
 ## **1️⃣ Preparação (5-10 min)**
 - Cada aluno ou grupo escolhe um **processo central** do trabalho.
   - Exemplo: Cadastro de clientes, processo de pagamento, controle de estoque, gestão de chamados.
-- Distribuir post-its físicos ou usar ferramentas digitais como **Miro, MURAL ou Jamboard**.
-
 ---
 
 ## **2️⃣ Mapeamento de Eventos de Domínio (15-20 min)**
