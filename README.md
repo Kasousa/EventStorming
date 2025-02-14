@@ -62,6 +62,7 @@
 ✅ **Usar cores diferentes para cada tipo de post-it** (como na legenda da imagem de Event Storming).  
 ✅ **Pensar no fluxo real do dia a dia do trabalho** para tornar a atividade mais prática.  
 
+---
 ## ** Links Úteis:
 
 https://medium.com/@jonesroberto/event-storming-guia-b%C3%A1sico-216498f5dd2d
