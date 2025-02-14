@@ -61,3 +61,14 @@
 ✅ **O foco é explorar e aprender**, não a perfeição.  
 ✅ **Usar cores diferentes para cada tipo de post-it** (como na legenda da imagem de Event Storming).  
 ✅ **Pensar no fluxo real do dia a dia do trabalho** para tornar a atividade mais prática.  
+
+Ex:
+
+https://medium.com/@jonesroberto/event-storming-guia-b%C3%A1sico-216498f5dd2d
+
+<img width="708" alt="image" src="https://github.com/user-attachments/assets/bd0f4130-4f26-4508-a658-6ee639261649" />
+
+https://www.linkedin.com/pulse/o-que-%C3%A9-eventstorming-e-como-este-formato-de-workshop-rodrigues/
+
+https://medium.com/@jonesroberto/event-storming-guia-b%C3%A1sico-216498f5dd2d
+
